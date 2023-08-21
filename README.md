@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Augusto Baldino!
 
 - 🎓 4° semestre Engenharia de Software PUCRS;
-- 📘 Estou estudando desenvolvimento web, mais especificamente HTML5, CSS3, e Javascript;
+- 📘 Estou estudando sobre interface e experiência de usuário UI/UX;
 - 📫 Contate-me no email: augustoperonibaldino@gmail.com;
 
 <div>
