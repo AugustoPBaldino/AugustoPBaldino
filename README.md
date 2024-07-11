@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Augusto Baldino!
 
 - 🎓 6° semestre Engenharia de Software PUCRS;
-- 📘 Estou estudando sobre interface e experiência de usuário UI/UX;
 - 📫 Contate-me no email: augustoperonibaldino@gmail.com;
 
 <div>
