@@ -10,17 +10,38 @@
   </a>
 </div>
 
-<p>Tecnologias que possuo experiência</p>
+<h2>Tecnologias que possuo experiência</h2>
+
+##
+
+<h3>Front-end<h3/>
 <div style="display: inline_block; gap: 10px; margin-top: 10px;">
   <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Augusto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Augusto-Spring" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
-  <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
 </div>
 
-<div style="margin-top: 10px;">
+##
+
+<h3>Back-end<h3/>
+<div style="display: inline_block; gap: 10px; margin-top: 10px;">
+ <img align="center" alt="Augusto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Augusto-Spring" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
+  <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img align="center" alt="Augusto-NodeJS" height="30" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
+</div>
+
+##
+
+<h3>Banco-de-dados<h3/>
+<div style="display: inline_block; gap: 10px; margin-top: 10px;">
+ <img align="center" alt="Augusto-Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000">
+  <img align="center" alt="Augusto-Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000">
+</div>
+
+##
+
+<div style="margin-top: 20px;">
   <a href="mailto:augustoperonibaldino@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/augusto-baldino-730ba1248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
 </div>
