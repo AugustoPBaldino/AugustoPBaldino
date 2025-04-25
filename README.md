@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Augusto Baldino!
 
-- 🎓 6° semestre Engenharia de Software PUCRS;
+- 🎓 7° semestre Engenharia de Software PUCRS;
 - 📫 Contate-me no email: augustoperonibaldino@gmail.com;
 
 <div>
