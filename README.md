@@ -10,9 +10,7 @@
   </a>
 </div>
 
-<h2>Tecnologias que possuo experiência</h2>
-
-##
+<h2>🧠 Tecnologias que possuo experiência</h2>
 
 <h3>Front-end<h3/>
 <div style="display: inline_block; gap: 10px; margin-top: 10px;">
@@ -42,6 +40,13 @@
 </div>
 
 ##
+
+<h2>🎓 Minha Graduação </h2>
+
+Possuo uma organização que reúne materiais e projetos desenvolvidos ao longo da minha trajetória acadêmica no curso de Bacharelado em Engenharia de Software pela PUCRS. Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de ensino, trabalhos, provas e outros recursos relevantes.
+
+👉 [Materiais Acadêmicos](https://github.com/Augusto-Baldino-Pucrs)
+
 
 <div style="margin-top: 20px;">
   <a href="mailto:augustoperonibaldino@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
