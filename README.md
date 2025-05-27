@@ -47,6 +47,7 @@ Possuo uma organização que reúne materiais e projetos desenvolvidos ao longo 
 
 👉 [Materiais Acadêmicos](https://github.com/Augusto-Baldino-Pucrs)
 
+<h2>📞 Contato </h2>
 
 <div style="margin-top: 20px;">
   <a href="mailto:augustoperonibaldino@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
