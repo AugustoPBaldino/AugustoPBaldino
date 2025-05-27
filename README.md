@@ -19,6 +19,7 @@
   <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Augusto-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 ##
@@ -29,6 +30,7 @@
   <img align="center" alt="Augusto-Spring" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
   <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" alt="Augusto-NodeJS" height="30" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
+  <img align="center" alt="Augusto-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </div>
 
 ##
