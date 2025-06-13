@@ -29,6 +29,7 @@
   <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" alt="Augusto-NodeJS" height="30" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
   <img align="center" alt="Augusto-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Augusto-Typescript" height="35" width="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"">
 </div>
 
 ##
