@@ -3,13 +3,6 @@
 - 🎓 7° semestre Engenharia de Software PUCRS;
 - 📫 Contate-me no email: augustoperonibaldino@gmail.com;
 
-<div>
-  <a href="https://github.com/AugustoPBaldino">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=AugustoPBaldino&repo=github-README.md&show_icons=true&theme=dracula" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPBaldino&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-
 <h2>🧠 Tecnologias que possuo experiência</h2>
 
 <h3>Front-end<h3/>
@@ -18,6 +11,7 @@
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Augusto-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Augusto-React" height="30" width="40" src="https://github.com/user-attachments/assets/58e409cf-94e0-42da-95b2-7c387ed931e5">
 </div>
 
 ##
@@ -26,7 +20,6 @@
 <div style="display: inline_block; gap: 10px; margin-top: 10px;">
  <img align="center" alt="Augusto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Augusto-Spring" height="30" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
-  <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" alt="Augusto-NodeJS" height="30" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
   <img align="center" alt="Augusto-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
    <img align="center" alt="Augusto-Typescript" height="35" width="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"">
@@ -34,10 +27,11 @@
 
 ##
 
-<h3>Banco-de-dados<h3/>
+<h3>Dados<h3/>
 <div style="display: inline_block; gap: 10px; margin-top: 10px;">
  <img align="center" alt="Augusto-Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000">
   <img align="center" alt="Augusto-Java" height="30" width="40" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000">
+  <img align="center" alt="Augusto-Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
 </div>
 
 ##
