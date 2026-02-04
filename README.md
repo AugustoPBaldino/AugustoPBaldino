@@ -2,7 +2,7 @@
 
 - 🎓 7° semestre Engenharia de Software PUCRS;
 - 📫 Contate-me no email: augustoperonibaldino@gmail.com;
-- 👨🏻‍💻Acesse meu [Portfólio](https://portfolio-pink-five-84.vercel.app/) para ter uma visão mais enxuta dos meus projetos
+- 👨🏻‍💻Acesse meu [Portfólio](https://augusto-baldino-portfolio.vercel.app/) para ter uma visão mais enxuta dos meus projetos
 
 
 <h2>🧠 Tecnologias que possuo experiência</h2>
